@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "Te ei saa näha erameeskonna kõiki meeskonnaliikmeid.",
   "you_cannot_see_teams_of_org": "Te ei saa näha eraorganisatsiooni meeskondi.",
   "allow_multiple_durations": "Luba mitu kestust",
+  "show_slot_end_time": "Kuva lõpuaeg osalejate ajaslotsi valimise ajal",
   "impersonate_user_tip": "Kõik selle funktsiooni kasutused on auditeeritud.",
   "impersonating_user_warning": "Esitan end kasutajanimena \"{{user}}\".",
   "impersonating_stop_instructions": "Peatamiseks klõpsake siin",

@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "Bạn không thể thấy tất cả thành viên nhóm của một nhóm riêng tư.",
   "you_cannot_see_teams_of_org": "Bạn không thể thấy các nhóm của một tổ chức riêng tư.",
   "allow_multiple_durations": "Cho phép nhiều khoảng thời gian",
+  "show_slot_end_time": "Hiển thị thời gian kết thúc trong quá trình chọn khe thời gian cho người tham dự",
   "impersonate_user_tip": "Tất cả những lần dùng tính năng này đều bị kiểm toán.",
   "impersonating_user_warning": "Đang mạo danh tên người dùng \"{{user}}\".",
   "impersonating_stop_instructions": "Nhấp vào đây để ngừng lại",

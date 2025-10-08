@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "אין לך אפשרות לראות את כל חברי הצוות של צוות פרטי.",
   "you_cannot_see_teams_of_org": "אי אפשר לצפות בצוותים של ארגון פרטי.",
   "allow_multiple_durations": "אפשר משכי זמן מרובים",
+  "show_slot_end_time": "הצג זמן סיום במהלך בחירת החריץ למשתתפים",
   "impersonate_user_tip": "כל השימושים בתכונה זו נבדקים.",
   "impersonating_user_warning": "בהתחזות לשם המשתמש \"{{user}}\".",
   "impersonating_stop_instructions": "לחץ/י כאן כדי להפסיק",

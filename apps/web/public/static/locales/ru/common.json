@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "Вы не можете видеть список участников закрытой команды.",
   "you_cannot_see_teams_of_org": "Вы не можете видеть команды приватной организации.",
   "allow_multiple_durations": "Разрешить несколько длительностей",
+  "show_slot_end_time": "Показывать время окончания при выборе слота участникам",
   "impersonate_user_tip": "Все варианты использования этой функции проверяются.",
   "impersonating_user_warning": "Олицетворение пользователя \"{{user}}\".",
   "impersonating_stop_instructions": "Нажмите здесь, чтобы закончить",

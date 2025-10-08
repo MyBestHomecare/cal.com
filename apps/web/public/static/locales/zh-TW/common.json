@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "您無法查看私人團隊的所有團隊成員。",
   "you_cannot_see_teams_of_org": "您無法看到私人組織的團隊。",
   "allow_multiple_durations": "允許多種時長",
+  "show_slot_end_time": "在參與者選擇時段期間顯示結束時間",
   "impersonate_user_tip": "此功能的所有使用已經過稽核。",
   "impersonating_user_warning": "正在模擬使用者名稱「{{user}}」。",
   "impersonating_stop_instructions": "按一下此處以停止。",

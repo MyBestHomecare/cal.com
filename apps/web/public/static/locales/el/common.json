@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "Δεν μπορείτε να δείτε όλα τα μέλη μιας ιδιωτικής ομάδας.",
   "you_cannot_see_teams_of_org": "Δεν μπορείτε να δείτε τις ομάδες ενός ιδιωτικού οργανισμού.",
   "allow_multiple_durations": "Επιτρέψτε πολλαπλές διάρκειες",
+  "show_slot_end_time": "Εμφάνιση ώρας λήξης κατά την επιλογή χρονοθυρίδας στους συμμετέχοντες",
   "impersonate_user_tip": "Όλες οι χρήσεις αυτής της λειτουργίας καταγράφονται.",
   "impersonating_user_warning": "Μιμείστε τον χρήστη \"{{user}}\".",
   "impersonating_stop_instructions": "Κάντε κλικ εδώ για διακοπή",

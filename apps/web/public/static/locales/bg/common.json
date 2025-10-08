@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "Не можеш да видиш всички членове на частния екип.",
   "you_cannot_see_teams_of_org": "Не можеш да видиш екипите на частна организация.",
   "allow_multiple_durations": "Разрешаване на множество продължителности",
+  "show_slot_end_time": "Покажи краен час по време на избор на слот за участниците",
   "impersonate_user_tip": "Всяко използване на тази функция се одитира.",
   "impersonating_user_warning": "Представяш се като потребител \"{{user}}\".",
   "impersonating_stop_instructions": "Кликни тук, за да спреш",

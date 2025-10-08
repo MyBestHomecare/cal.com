@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "Nećete moći da vidite sve članove privatnog tima.",
   "you_cannot_see_teams_of_org": "Ne možete videti timove privatne organizacije.",
   "allow_multiple_durations": "Dozvoli višestruka trajanja",
+  "show_slot_end_time": "Prikaži vreme završetka tokom izbora slota učesnicima",
   "impersonate_user_tip": "Sva korišćenja ove funkcije se nadgledaju.",
   "impersonating_user_warning": "Predstavljanje kao korisnik „{{user}}“.",
   "impersonating_stop_instructions": "Kliknite ovde da zaustavite",

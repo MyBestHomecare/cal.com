@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "非公開チームでは、チームメンバーを確認することができません。",
   "you_cannot_see_teams_of_org": "非公開の組織のチームを見ることはできません。",
   "allow_multiple_durations": "複数の時間枠を許可",
+  "show_slot_end_time": "参加者のスロット選択中に終了時間を表示",
   "impersonate_user_tip": "この機能の使用はすべて監査されています。",
   "impersonating_user_warning": "ユーザー名 \"{{user}}\" になりすましています。",
   "impersonating_stop_instructions": "こちらをクリックして停止",

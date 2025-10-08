@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "Özel bir ekibin tüm ekip üyelerini göremezsiniz.",
   "you_cannot_see_teams_of_org": "Özel bir kuruluşun takımlarını göremezsiniz.",
   "allow_multiple_durations": "Çoklu sürelere izin ver",
+  "show_slot_end_time": "Katılımcılara slot seçimi sırasında bitiş süresini göster",
   "impersonate_user_tip": "Bu özelliğin tüm kullanımları denetlenir.",
   "impersonating_user_warning": "\"{{user}}\" kullanıcı adı kimliğine bürünme.",
   "impersonating_stop_instructions": "Durdurmak için buraya tıklayın",

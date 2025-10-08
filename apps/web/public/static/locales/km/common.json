@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "អ្នកមិនអាចមើលឃើញសមាជិកទាំងអស់នៃក្រុមសម្ងាត់បានទេ។",
   "you_cannot_see_teams_of_org": "អ្នកមិនអាចមើលឃើញក្រុមនៃអង្គការសម្ងាត់បានទេ។",
   "allow_multiple_durations": "អនុញ្ញាតឱ្យមានរយៈពេលច្រើន",
+  "show_slot_end_time": "បង្ហាញពេលបញ្ចប់ក្នុងអំឡុងការជ្រើសរើសស្លតដល់អ្នកចូលរួម",
   "impersonate_user_tip": "ការប្រើប្រាស់មុខងារនេះទាំងអស់ត្រូវបានកត់ត្រា។",
   "impersonating_user_warning": "កំពុងសម្តែងជាអ្នកប្រើប្រាស់ \"{{user}}\"។",
   "impersonating_stop_instructions": "ចុចទីនេះដើម្បីបញ្ឈប់",

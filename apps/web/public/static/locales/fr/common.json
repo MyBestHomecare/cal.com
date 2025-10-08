@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "Vous ne pouvez pas voir tous les membres d'une équipe privée.",
   "you_cannot_see_teams_of_org": "Vous ne pouvez pas voir les équipes d'une organisation privée.",
   "allow_multiple_durations": "Autoriser plusieurs durées",
+  "show_slot_end_time": "Afficher l'heure de fin pendant la sélection du créneau aux participants",
   "impersonate_user_tip": "Toutes les utilisations de cette fonctionnalité sont vérifiées.",
   "impersonating_user_warning": "Emprunt du nom d'utilisateur « {{user}} ».",
   "impersonating_stop_instructions": "Cliquez ici pour arrêter",

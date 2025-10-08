@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "U kunt niet alle teamleden van een privéteam zien.",
   "you_cannot_see_teams_of_org": "Je kunt de teams van een privéorganisatie niet zien.",
   "allow_multiple_durations": "Meerdere tijdsduren toestaan",
+  "show_slot_end_time": "Toon eindtijd tijdens slotselectie aan deelnemers",
   "impersonate_user_tip": "Alle gebruik van deze functie wordt gecontroleerd.",
   "impersonating_user_warning": "Gebruikersnaam \"{{user}}\" wordt geïmiteerd.",
   "impersonating_stop_instructions": "Klik hier om te stoppen",

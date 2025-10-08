@@ -416,6 +416,7 @@
   "already_have_account": "Već imate račun?",
   "email_team_invite|subject|invited_to_regular_team": "{{user}} vas je pozvao da se pridružite timu {{team}} na {{appName}}",
   "multiple_duration_timeUnit_short": "{{count}}$t({{unit}}_short)",
+  "show_slot_end_time": "Prikaži vrijeme završetka tijekom odabira slota sudionicima",
   "minute_short": "min",
   "hour_short": "h",
   "minute_one_short": "{{count}} min",

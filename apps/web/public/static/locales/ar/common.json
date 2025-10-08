@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "لا يمكنك رؤية جميع أعضاء الفريق السري.",
   "you_cannot_see_teams_of_org": "لا يمكنك رؤية فرق المؤسسة الخاصة.",
   "allow_multiple_durations": "السماح بمدد متعددة",
+  "show_slot_end_time": "عرض وقت النهاية أثناء اختيار الفتحة الزمنية للحضور",
   "impersonate_user_tip": "يتم مراجعة جميع استخدامات هذه الميزة.",
   "impersonating_user_warning": "انتحال اسم مستخدم \"{{user}}\".",
   "impersonating_stop_instructions": "انقر هنا للإيقاف",

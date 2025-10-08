@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "You cannot see all the team members of a private team.",
   "you_cannot_see_teams_of_org": "You cannot see teams of a private organization.",
   "allow_multiple_durations": "Allow multiple durations",
+  "show_slot_end_time": "Display end time during slot selection to attendees",
   "impersonate_user_tip": "All uses of this feature is audited.",
   "impersonating_user_warning": "Impersonating username \"{{user}}\".",
   "impersonating_stop_instructions": "Click here to stop",

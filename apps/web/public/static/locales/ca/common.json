@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "No pots veure tots els membres d'un equip privat.",
   "you_cannot_see_teams_of_org": "No pots veure els equips d'una organització privada.",
   "allow_multiple_durations": "Permet múltiples duracions",
+  "show_slot_end_time": "Mostra l'hora de finalització durant la selecció de franja horària als assistents",
   "impersonate_user_tip": "Tots els usos d'aquesta funcionalitat són auditats.",
   "impersonating_user_warning": "Suplantant l'usuari \"{{user}}\".",
   "impersonating_stop_instructions": "Fes clic aquí per aturar",

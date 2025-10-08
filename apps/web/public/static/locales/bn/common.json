@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "আপনি কোনও বেসরকারী দলের সমস্ত দলের সদস্য দেখতে পারবেন না।",
   "you_cannot_see_teams_of_org": "আপনি কোনও বেসরকারী সংস্থার দল দেখতে পাচ্ছেন না।",
   "allow_multiple_durations": "একাধিক সময়কাল অনুমতি দিন",
+  "show_slot_end_time": "অংশগ্রহণকারীদের স্লট নির্বাচনের সময় শেষ সময় প্রদর্শন করুন",
   "impersonate_user_tip": "এই বৈশিষ্ট্যের সমস্ত ব্যবহার নিরীক্ষণ করা হয়।",
   "impersonating_user_warning": "ব্যবহারকারীর নাম \"{{user}}\"।",
   "impersonating_stop_instructions": "থামাতে এখানে ক্লিক করুন",

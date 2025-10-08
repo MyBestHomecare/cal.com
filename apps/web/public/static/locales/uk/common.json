@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "Ви не можете бачити всіх учасників приватної команди.",
   "you_cannot_see_teams_of_org": "Ви не можете бачити команди приватної організації.",
   "allow_multiple_durations": "Дозволити кілька тривалостей",
+  "show_slot_end_time": "Показувати час завершення під час вибору слота учасникам",
   "impersonate_user_tip": "Усі випадки використання цієї функції підпадають під аудит.",
   "impersonating_user_warning": "Виконується роль користувача {{user}}.",
   "impersonating_stop_instructions": "Натисніть тут, щоб зупинити",

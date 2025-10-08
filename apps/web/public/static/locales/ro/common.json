@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "Nu puteți vedea toți membrii unei echipe private.",
   "you_cannot_see_teams_of_org": "Nu poți vedea echipele unei organizații private.",
   "allow_multiple_durations": "Permiteți durate multiple",
+  "show_slot_end_time": "Afișați ora de sfârșit în timpul selecției slotului pentru participanți",
   "impersonate_user_tip": "Toate utilizările acestei caracteristici sunt verificate.",
   "impersonating_user_warning": "Reprezentare nume de utilizator „{{user}}”.",
   "impersonating_stop_instructions": "Fă clic aici pentru a înceta",

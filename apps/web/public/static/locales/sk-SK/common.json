@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "Nemôžete vidieť všetkých členov súkromného tímu.",
   "you_cannot_see_teams_of_org": "Nemôžete vidieť tímy súkromnej organizácie.",
   "allow_multiple_durations": "Povoliť viacero trvaní",
+  "show_slot_end_time": "Zobraziť čas ukončenia počas výberu slotu pre účastníkov",
   "impersonate_user_tip": "Všetky použitia tejto funkcie sú auditované.",
   "impersonating_user_warning": "Napodobňovanie používateľa \"{{user}}\".",
   "impersonating_stop_instructions": "Kliknite sem pre zastavenie",

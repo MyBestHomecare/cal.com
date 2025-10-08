@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "Et voi nähdä yksityisen tiimin kaikkia jäseniä.",
   "you_cannot_see_teams_of_org": "Et voi nähdä yksityisen organisaation tiimejä.",
   "allow_multiple_durations": "Salli useita kestoja",
+  "show_slot_end_time": "Näytä loppuaja aikaslotin valinnan aikana osallistujille",
   "impersonate_user_tip": "Kaikki tämän toiminnon käyttö kirjataan.",
   "impersonating_user_warning": "Esiinnyt käyttäjänä \"{{user}}\".",
   "impersonating_stop_instructions": "Klikkaa tästä lopettaaksesi",

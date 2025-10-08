@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "Ezin dituzu talde pribatu bateko kide guztiak ikusi.",
   "you_cannot_see_teams_of_org": "Ezin dituzu erakunde pribatu bateko taldeak ikusi.",
   "allow_multiple_durations": "Baimendu iraupen anitzak",
+  "show_slot_end_time": "Erakutsi amaiera-ordua txanda hautapenean parte-hartzaileei",
   "impersonate_user_tip": "Ezaugarri honen erabilera guztiak auditatzen dira.",
   "impersonating_user_warning": "\"{{user}}\" erabiltzailea ordezkatzen.",
   "impersonating_stop_instructions": "Klikatu hemen gelditzeko",

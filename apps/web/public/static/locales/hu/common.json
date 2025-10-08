@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "Nem láthatja a privát csapat összes csapattagját.",
   "you_cannot_see_teams_of_org": "Nem láthatja a magánszervezetek csapatait.",
   "allow_multiple_durations": "Több időtartam engedélyezése",
+  "show_slot_end_time": "Jelezd a befejezési időt a résztvevőknek a foglalás során",
   "impersonate_user_tip": "Ennek a funkciónak minden használata auditált.",
   "impersonating_user_warning": "\"{{user}}\" felhasználónév megszemélyesítése.",
   "impersonating_stop_instructions": "Kattintson ide a leállításhoz",

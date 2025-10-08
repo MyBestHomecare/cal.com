@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "您无法看到私密团队的所有团队成员。",
   "you_cannot_see_teams_of_org": "您无法看到私有组织的团队。",
   "allow_multiple_durations": "允许多种时长",
+  "show_slot_end_time": "在参与者选择时段期间显示结束时间",
   "impersonate_user_tip": "此功能的所有使用都已审核。",
   "impersonating_user_warning": "正在模拟用户名“{{user}}”。",
   "impersonating_stop_instructions": "点击此处停止",

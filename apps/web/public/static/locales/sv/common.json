@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "Du kan inte se alla teammedlemmar i ett privat team.",
   "you_cannot_see_teams_of_org": "Du kan inte se teamen i en privat organisation.",
   "allow_multiple_durations": "Tillåt flera varaktigheter",
+  "show_slot_end_time": "Visa sluttid under tidslotsval för deltagarna",
   "impersonate_user_tip": "All användning av denna funktion granskas.",
   "impersonating_user_warning": "Imiterar användarnamn \"{{user}}\".",
   "impersonating_stop_instructions": "Klicka här för att sluta",

@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "Gizli komandanın bütün üzvlərini görə bilməzsiniz.",
   "you_cannot_see_teams_of_org": "Gizli təşkilatın komandalarını görə bilməzsiniz.",
   "allow_multiple_durations": "Çoxsaylı müddətlərə icazə verin",
+  "show_slot_end_time": "İştirakçılara vaxt aralığı seçimi zamanı bitmə vaxtını göstər",
   "impersonate_user_tip": "Bu xüsusiyyətin bütün istifadələri auditi olunur.",
   "impersonating_user_warning": "\"{{user}}\" istifadəçi adını təqlid edirsiniz.",
   "impersonating_stop_instructions": "Dayandırmaq üçün bura klikləyin",

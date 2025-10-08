@@ -1333,6 +1333,7 @@
   "you_cannot_see_team_members": "비공개 팀의 모든 팀원을 볼 수 없습니다.",
   "you_cannot_see_teams_of_org": "비공개 조직의 팀을 볼 수 없습니다.",
   "allow_multiple_durations": "여러 시간 옵션 허용",
+  "show_slot_end_time": "참석자 슬롯 선택 중 종료 시간 표시",
   "impersonate_user_tip": "이 기능의 사용은 모두 감사됩니다.",
   "impersonating_user_warning": "\"{{user}}\"의 사용자 이름을 가장하는 중입니다.",
   "impersonating_stop_instructions": "중지하려면 여기를 클릭",
